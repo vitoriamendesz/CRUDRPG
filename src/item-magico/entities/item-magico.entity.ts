@@ -1,4 +1,3 @@
-// src/item-magico/entities/item-magico.entity.ts
 import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
 import { Document } from 'mongoose';
 
